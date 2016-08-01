@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Prashant\Make a wish app\Demo code\FragmentTransition\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="E:\Prashant\Make a wish app\Demo code\FragmentTransition\app\build\intermediates\pre-dexed\debug\classes-204130b30de3267b49ca3262db9e864bc0d4d21e.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Make a wish app\Demo code\FragmentTransition\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\Prashant\Make a wish app\Demo code\FragmentTransition\app\build\intermediates\pre-dexed\debug\classes-c64d527497dd9394b334b2fb87a8ba0fdcadb19a.jar" />
+    </item>
+
+</items>
